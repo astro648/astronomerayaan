@@ -24,7 +24,7 @@ Hello! How are you? I am Ayaan, and I am a student. I have been learning about t
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [ConsoleController](https://github.com/astronomerayaan/ConsoleController/)  
+- 🔭 I’m currently working on [ConsoleController](https://github.com/astronomerayaan/ConsoleController/) and some other stuff  
   
 
 - 🌱 In the tech field, I’m currently learning electrical engineering.  
