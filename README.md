@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-Hello! How are you? I am Ayaan, and I am a student. I have been learning about tech/computers/programming for the last 5 years. My goal for the future is to help the world in any way possible. I have a YouTube channel and some other stuff. There are some accounts linked above, and some languages and tools that I know in the Languages and Tools section but some are missing because the Profilinator (credits to profilinator.rishav.dev) doesn't support it. The YouTube channel is linked to the twitter and there are a couple tools and languages that I know (such as Kali Linux, XML, DialogFlow, and some others) which aren't listed. Thanks for visiting! (more stats below)  
+Hello! How are you? I am Ayaan, and I am a student. I have been learning about tech/computers/programming for the last 5 years. My goal for the future is to help the world in any way possible. I have a YouTube channel and some other stuff. There are some accounts linked above, and some languages and tools that I know in the Languages and Tools section but some are missing because the Profilinator (credits to profilinator.rishav.dev) doesn't support it. I am also an admin and very active player for the Creeper Realms SMP. The YouTube channel is linked to the twitter and there are a couple tools and languages that I know (such as Kali Linux, XML, DialogFlow, and some others) which aren't listed. Thanks for visiting! (more stats below)  
   
 
 <br/>  
