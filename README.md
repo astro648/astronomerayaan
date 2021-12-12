@@ -24,10 +24,10 @@ Hello! How are you? I am Ayaan, and I am a student. I have been learning about t
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [ConsoleController](https://github.com/astronomerayaan/ConsoleController/) and some other stuff  
+- 🔭 I’m currently working on a lot of stuff and you might see random repos show up at random times  
   
 
-- 🌱 In the tech field, I’m currently learning electrical engineering.  
+- 🌱 In the tech field, I’m currently learning Selenium.  
   
 
 - ❓ Ask me about things related to space and I'll probably have an answer.  
