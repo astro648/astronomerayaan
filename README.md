@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/astronomerayaan](https://github.com/astronomerayaan)
 
-- 📝 I regularly make poopoo posts on [https://twitter.com/AyaanAstronomer](https://twitter.com/AyaanAstronomer)
+- 📝 I regularly make bad posts on [https://twitter.com/AyaanAstronomer](https://twitter.com/AyaanAstronomer)
 
 - 💬 Ask me about **anything related to space**
 
