@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ConsoleController](https://github.com/astronomerayaan/ConsoleController)
 
-- 🌱 I’m currently learning **Selenium Webscraping**
+- 🌱 I’m currently learning **Selenium Web Scraping**
 
 - ⚡ An old Arduino project of mine [KnightRider Arduino lights](https://github.com/astronomerayaan/ArduinoKnightRiderLights)
 
