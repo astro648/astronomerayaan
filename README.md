@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astronomerayaan" alt="astronomerayaan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/astro648_yt" target="blank"><img src="https://img.shields.io/twitter/follow/astronomerayaan?logo=twitter&style=for-the-badge" alt="astronomerayaan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/astro648_yt" target="blank"><img src="https://img.shields.io/twitter/follow/astro648_yt?logo=twitter&style=for-the-badge" alt="astro648_yt" /></a> </p>
 
-- 🔭 I’m currently working on [ConsoleController](https://github.com/astronomerayaan/ConsoleController)
+- 🔭 I’m currently working on [ConsoleController](https://github.com/astronomerayaan/ConsoleController) and some other game projects
 
-- 🌱 I’m currently learning **Selenium Web Scraping**
+- 🌱 I’m currently learning **Hacking**
 
 - ⚡ An old Arduino project of mine [KnightRider Arduino lights](https://github.com/astronomerayaan/ArduinoKnightRiderLights)
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/astronomerayaan](https://github.com/astronomerayaan)
 
-- 📝 I regularly make bad posts on [https://twitter.com/AyaanAstronomer](https://twitter.com/AyaanAstronomer)
+- 📝 I regularly make bad posts on [https://twitter.com/Astro648_YT](https://twitter.com/Astro648_YT)
 
 - 💬 Ask me about **anything related to space**
 
