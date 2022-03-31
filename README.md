@@ -7,7 +7,7 @@
 ### <div align="center">I'm Ayaan, a student and small content creator who wants to someday change the world</div>  
   
 
-- 🔭 I’m currently working on [**ConsoleController**](https://github.com/astronomerayaan/ConsoleController) and some other stuff  
+- 🔭 I’m currently working on [**ConsoleController**](https://github.com/astronomerayaan/ConsoleController) and some other stuff that you can see on my profile 
   
 
 - 🌱 I’m currently learning **Ethical Hacking**  
