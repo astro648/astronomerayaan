@@ -69,7 +69,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=astronomerayaan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astronomerayaan" alt="astronomerayaan" /></a> </p>
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) </p>
 <br/>  
 
 <div align="center">
