@@ -69,13 +69,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=astronomerayaan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=astronomerayaan&&style=flat-square" align="center" />
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
