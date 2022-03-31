@@ -13,11 +13,11 @@
 
 - ⚡ An old Arduino project of mine [KnightRider Arduino lights](https://github.com/astronomerayaan/ArduinoKnightRiderLights)
 
-- 🧑‍🚀 A cool game made by a programmer I look up to [Seb Lague's Solar System](https://github.com/SebLague/Solar-System)
+- 🧑‍🚀 A cool game/tech demo made by a programmer I look up to [Seb Lague's Solar System](https://github.com/SebLague/Solar-System)
 
 - 👨‍💻 All of my projects are available at [https://github.com/astronomerayaan](https://github.com/astronomerayaan)
 
-- 📝 I regularly make bad posts on [https://twitter.com/Astro648_YT](https://twitter.com/Astro648_YT)
+- 📝 I regularly make bad posts on [My Twitter](https://twitter.com/Astro648_YT)
 
 - 💬 Ask me about **anything related to space**
 
